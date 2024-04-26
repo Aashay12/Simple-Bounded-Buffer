@@ -10,5 +10,5 @@ This is a simple producer consumer prototype that implements synchronization usi
 
 - You can play around with production/cosmumption rate in the runner class and also remove the sempaphre code completetly if you wish to understand what deadlock looks like
 
-Output:
+- Output:
 <img width="411" alt="Output" src="https://github.com/Aashay12/Simple-Bounded-Buffer/assets/32494313/0224f6b5-2db2-4303-995a-0cbac0e38f21">
